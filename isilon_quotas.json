@@ -1,0 +1,358 @@
+
+{
+"quotas" : 
+[
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "AAADAAEAAAAAAAAAAAAAAAMAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : null,
+"notifications" : "default",
+"path" : "/ifs/data",
+"persona" : null,
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "default-user",
+"usage" : 
+{
+"inodes" : 0,
+"logical" : 0,
+"physical" : 0
+}
+},
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "AAADAAEAAAAAAAAAAAAAEAMAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : true,
+"notifications" : "default",
+"path" : "/ifs/data",
+"persona" : 
+{
+"id" : "UID:0"
+},
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "user",
+"usage" : 
+{
+"inodes" : 27,
+"logical" : 1090143187,
+"physical" : 1281487360
+}
+},
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "AAADAAEAAAD1AQAAAAAAEAMAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : true,
+"notifications" : "default",
+"path" : "/ifs/data",
+"persona" : 
+{
+"id" : "UID:501"
+},
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "user",
+"usage" : 
+{
+"inodes" : 10,
+"logical" : 377131,
+"physical" : 1173504
+}
+},
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "AAADAAEAAAAHDAAAAAAAEAMAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : true,
+"notifications" : "default",
+"path" : "/ifs/data",
+"persona" : 
+{
+"id" : "UID:3079"
+},
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "user",
+"usage" : 
+{
+"inodes" : 2,
+"logical" : 14663680,
+"physical" : 42757120
+}
+},
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "AAADAAEAAADDNfAOAAAAEAMAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : true,
+"notifications" : "default",
+"path" : "/ifs/data",
+"persona" : 
+{
+"id" : "UID:250623427"
+},
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "user",
+"usage" : 
+{
+"inodes" : 6,
+"logical" : 213178,
+"physical" : 651264
+}
+},
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "KwEFAAEAAAAAAAAAAAAAAAIAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : null,
+"notifications" : "default",
+"path" : "/ifs/mitkorep",
+"persona" : null,
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "default-user",
+"usage" : 
+{
+"inodes" : 0,
+"logical" : 0,
+"physical" : 0
+}
+},
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "KwEFAAEAAAAAAAAAAAAAEAIAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : true,
+"notifications" : "default",
+"path" : "/ifs/mitkorep",
+"persona" : 
+{
+"id" : "UID:0"
+},
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "user",
+"usage" : 
+{
+"inodes" : 38277771,
+"logical" : 12116644617233,
+"physical" : 37293132315648
+}
+},
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "KwEFAAEAAABdHgtEAAAAFAIAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : true,
+"notifications" : "default",
+"path" : "/ifs/mitkorep",
+"persona" : 
+{
+"id" : "SID:S-1-5-21-3652093400-3898020599-1919291966-1150"
+},
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "user",
+"usage" : 
+{
+"inodes" : 90,
+"logical" : 449879593,
+"physical" : 1352392704
+}
+},
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "qoY0AAEAAAAAAAAAAAAAQAEAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : null,
+"notifications" : "default",
+"path" : "/ifs/mitkorep/fio",
+"persona" : null,
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "directory",
+"usage" : 
+{
+"inodes" : 19,
+"logical" : 142352974,
+"physical" : 428070912
+}
+},
+
+{
+"container" : false,
+"enforced" : false,
+"id" : "e3LnAwEAAADSBwAAAAAAEAQAAAAAAAAA",
+"include_snapshots" : false,
+"linked" : false,
+"notifications" : "default",
+"path" : "/ifs/home/meskola",
+"persona" : 
+{
+"id" : "UID:2002"
+},
+"ready" : true,
+"thresholds" : 
+{
+"advisory" : null,
+"advisory_exceeded" : false,
+"advisory_last_exceeded" : null,
+"hard" : null,
+"hard_exceeded" : false,
+"hard_last_exceeded" : null,
+"soft" : null,
+"soft_exceeded" : false,
+"soft_grace" : null,
+"soft_last_exceeded" : null
+},
+"thresholds_include_overhead" : false,
+"type" : "user",
+"usage" : 
+{
+"inodes" : 10,
+"logical" : 73959,
+"physical" : 287232
+}
+}
+],
+"resume" : null
+}
